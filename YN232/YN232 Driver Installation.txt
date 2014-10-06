@@ -1,0 +1,2 @@
+Open "driver\CH341" folder.
+Double click CH341SER.exe to install the driver.
