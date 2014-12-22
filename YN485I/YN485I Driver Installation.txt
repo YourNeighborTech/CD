@@ -1,0 +1,3 @@
+Open "driver\FT232" folder.
+Double click "CDM v2.08.30 WHQL Certified.exe" to install the driver.
+If any porblem, see "FT232-Driver Update.pdf".
